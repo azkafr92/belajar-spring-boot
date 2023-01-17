@@ -1,0 +1,7 @@
+user:
+  repository:
+    user-id: abcdefghijklmnopqrstuvwxyz1234567890
+    username: johndoe
+    first-name: john
+    last-name: doe
+    email: johndoe@example.com
